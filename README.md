@@ -1,3 +1,3 @@
 # langchain
 
-basic GPT using langchain .
+basic GPT using langchain ..
